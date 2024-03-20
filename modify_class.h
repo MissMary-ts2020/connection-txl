@@ -1,0 +1,14 @@
+//
+// Created by mary on 3/20/24.
+//
+
+#ifndef TXL_FINAL_FXXKU_IFFILED_NEVER_MODIFY_CLASS_H
+#define TXL_FINAL_FXXKU_IFFILED_NEVER_MODIFY_CLASS_H
+
+
+class modify_class {
+
+};
+
+
+#endif //TXL_FINAL_FXXKU_IFFILED_NEVER_MODIFY_CLASS_H
